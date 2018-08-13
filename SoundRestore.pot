@@ -1,14 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# SoundRestore Nvda Addon Translation File
+# Copyright 2018 ilyapashuk <ilusha.paschuk@gmail.com>
 # This file is distributed under the same license as the 'SoundRestore' package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# FIRST AUTHOR ilyapashuk <ilusha.paschuk@gmail.com>
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: 'SoundRestore' '1.0'\n"
+"Project-Id-Version: 'SoundRestore' '2.0'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
-"POT-Creation-Date: 2018-08-11 16:15+0300\n"
+"POT-Creation-Date: 2018-08-13 13:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,13 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: addon\GlobalPlugins\SoundRestore.py:15
+#. translators: this message will be anounced after restore operation
+#: addon\GlobalPlugins\SoundRestore.py:32
+msgid "sound restored"
+msgstr ""
+
+#. translators: this message will be displayed in nvda gestures dialog as description to restore sound gesture.
+#: addon\GlobalPlugins\SoundRestore.py:35
 msgid "Restores the sound after disabling"
 msgstr ""
 

@@ -15,11 +15,11 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on installation and add-on information
 	"addon-description" : _("restore sound after disabling"),
 	# version
-	"addon-version" : "1.1",
+	"addon-version" : "2.0",
 	# Author(s)
 	"addon-author" : "ilyapashuk",
 # URL for the add-on documentation support
-"addon-url" : None
+"addon-url" : "https://github.com/ilyapashuk/SoundRestore-Nvda-Addon"
 }
 
 
